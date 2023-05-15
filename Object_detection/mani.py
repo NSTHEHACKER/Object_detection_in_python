@@ -8,7 +8,7 @@ from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
 import os
 
 # Step 1: Load and preprocess the dataset
-dataset_dir = 'C:/Users/NS/Desktop/not_run/resized_images'
+dataset_dir = 'Object_detection/data_sets'
 image_paths = []
 images = []
 labels = []

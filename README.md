@@ -19,6 +19,13 @@ This Python script can be used to train a convolutional neural network (CNN) mod
 
 Note: The script assumes that the dataset of images is organized into subdirectories, with each subdirectory containing images of a single class. The name of each subdirectory is used as the label for the images in that subdirectory. If your dataset is organized differently, modify the script accordingly.
 
+
+## Credits
+
+This project was created by NSTHEHACKER . If you have any questions or feedback, please feel free to contact me at nakeeranthavasiappan@gmail.com .
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

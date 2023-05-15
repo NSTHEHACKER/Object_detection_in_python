@@ -3,13 +3,13 @@ import numpy as np
 import os
 
 # Set the directory containing the images
-image_directory = 'C:/Users/NS/Desktop/not_run/test'
+image_directory = 'file_path'
 
 # Set the target size for resizing
 target_size = (100, 100)  # Adjust the size as per your requirements
 
 # Set the directory to store resized images
-output_directory = 'C:/Users/NS/Desktop/not_run/resized_images/brid/cat'
+output_directory = 'Object_detection/data_sets/_what_data_sets_to_chooise'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_directory, exist_ok=True)
